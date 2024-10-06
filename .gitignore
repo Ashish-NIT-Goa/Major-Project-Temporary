@@ -2,3 +2,5 @@
 videos/*
 images/*
 models/*
+*.mp4
+*.avi
